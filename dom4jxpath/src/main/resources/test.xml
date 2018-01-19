@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root id="r1">
+    <branch id="b1">
+        <leaf>
+            <name>superpower</name>
+            <value>rich</value>
+        </leaf>
+        <key>batman</key>
+        <val>tech</val>
+    </branch>
+    <branch id="b2">
+        <leaf>
+            <name>leadership</name>
+            <value>none</value>
+        </leaf>
+        <key>superman</key>
+        <val>power</val>
+    </branch>
+    <branch id="b3">
+        <leaf>
+            <name>friendship</name>
+            <value>max</value>
+        </leaf>
+        <key>flash</key>
+        <val>fast</val>
+    </branch>
+</root>
