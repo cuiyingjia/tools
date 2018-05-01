@@ -15,11 +15,9 @@ def renameFile(path):
             renameFile(newPath) 
         elif os.path.isfile(newPath):
             filename=os.path.splitext(newPath)[1].upper()
-            print(filename)
             match = pattern.match(filename)
-            print(match)
             if match:
-                print("OLD:====="+newPath)
+                print("OLD file :"+filename + "chagne to "+ "")
                 fileLists.append(os.path.basename(newPath))
             
 
