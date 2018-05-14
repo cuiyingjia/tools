@@ -13,4 +13,4 @@ def IsAvailable(ip,port):
         print ('%d is busy!' % port) #py3
         return False
 if __name__ == '__main__':
-    IsAvailable('127.0.0.1',8080)#input here
+    IsAvailable('167.99.74.88',80)#input here
